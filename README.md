@@ -64,5 +64,7 @@ Business Value
 This analysis can help business teams understand which regions and markets contribute the most sales, which categories and products perform well, where losses occur, and how sales change over time. These findings can support decisions about product focus, regional strategy, discount review, and profitability improvement.
 Note
 The results above reflect the dataset and calculations documented in the included report. Dashboard visuals and figures may depend on the filters selected in Power BI. The SQL script currently uses the database name Primeor and table name customers; update these names if your local database uses different names.
+
+
 Author: Uday Bhaskar
 Project: Data Analytics – Sales Performance Analysis
